@@ -24,6 +24,8 @@ Berdasarkan data pada tabel diatas, diketahui kadar saturasi oksigen dari
 responden ke-3 ketika belum melakukan aktivitas 𝐴 sebanyak 67, dan setelah
 melakukan aktivitas 𝐴 sebanyak 70.
 
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170883641-308d584b-10a8-4ec0-837b-9ea7eb8368dc.png">
+
 ### 1a
 
 _Carilah Standar Deviasi dari data selisih pasangan pengamatan tabel
@@ -49,12 +51,16 @@ oksigen , sebelum dan sesudah melakukan aktivitas 𝐴”_
 
 - dapat dilihat bahwa jika dibandingkan dengan nilai sebelumnya, tidak terjadi perbedaan nilai yang signifikan setelah aktivitas 𝐴
 
+
+
 ## 2
 
 Diketahui bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahun.
 Untuk menguji klaim ini, 100 pemilik mobil yang dipilih secara acak diminta untuk
 mencatat jarak yang mereka tempuh. Jika sampel acak menunjukkan rata-rata
 23.500 kilometer dan standar deviasi 3900 kilometer.
+
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170883695-0c38c2f7-e732-4945-9d93-687d08b79725.png">
 
 ### 2a
 
@@ -95,6 +101,9 @@ Dari data diatas berilah keputusan serta kesimpulan yang didapatkan dari hasil
 diatas. Asumsikan nilai variancenya sama, apakah ada perbedaan pada
 rata-ratanya (α= 0.05)? Buatlah :
 
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170883724-de9a82ff-c0fd-43e3-b1eb-17d95e92221d.png">
+
+
 ### 3a
 
 _H0 dan H1_
@@ -106,14 +115,13 @@ H1 : (Terdapat perbedaan antara nilai rata rata Bandung dan nilai rata rata Bali
 
 ### 3b
 
-
-- maka hasil dari pengujian kedua data tersebut adalah :
-
-<img width="341" alt="image" src="https://user-images.githubusercontent.com/64743796/170867130-3833fb73-4077-4752-b460-cdd4a5d88b75.png">
+_Hitung Sampel Statistik_
 
 ### 3c
 
 _Lakukan Uji Statistik (df =2)_
+
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170883824-a9c6fb5d-7cd9-45b1-a7b1-fdb7d6b881b5.png">
 
 ### 3d
 
@@ -142,11 +150,20 @@ H0 : Tidak ada perbedaan panjang antara ketiga spesies atau rata-rata panjangnya
 sama
 Maka Kerjakan atau Carilah:
 
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170883849-5d6a6909-71fd-45f1-8ec6-a813e277a91c.png">
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170883852-9f8130f4-8f88-4bd4-b57b-f4732034da5e.png">
+
+
 ### 4a
 
 _Buatlah masing masing jenis spesies menjadi 3 subjek "Grup" (grup 1,grup
 2,grup 3). Lalu Gambarkan plot kuantil normal untuk setiap kelompok dan
 lihat apakah ada outlier utama dalam homogenitas varians_
+
+
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170883925-49307d30-f76b-48f7-93b9-e0dc55162173.png">
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170883928-6f408a44-5644-4528-b8d8-b98377701994.png">
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170883930-c45053f6-99e0-41d2-b473-3f9ae313455f.png">
 
 ### 4b
 
@@ -158,6 +175,8 @@ didapatkan? , Apa hipotesis dan kesimpulan yang dapat diambil ?_
 
 _Untuk uji ANOVA (satu arah), buatlah model linier dengan Panjang versus
 Grup dan beri nama model tersebut model 1._
+
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170883973-576c9769-1fe6-44ff-a0f9-a019d08e4e51.png">
 
 ### 4d
 
@@ -180,6 +199,9 @@ yang didapatkan apakah satu jenis kucing lebih panjang dari yang lain?_
 
 _Visualisasikan data dengan ggplot2_
 
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170883996-3128d255-9d98-4189-a8bd-a9aab3a9e665.png">
+
+
 ## 5
 
 Data yang digunakan merupakan hasil eksperimen yang dilakukan untuk
@@ -188,10 +210,15 @@ pelat muka (A, B dan C) pada keluaran cahaya tabung osiloskop. Percobaan
 dilakukan sebanyak 27 kali dan didapat data sebagai berikut: Data Hasil
 Eksperimen. Dengan data tersebut
 
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170884005-a946cffa-d947-41b7-822f-9707a66bb204.png">
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170884008-e9ea4cfd-ac5f-4364-99c1-4c243493367e.png">
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170884010-8f46ff8b-6442-4444-b625-dc7ce8119865.png">
+
 ### 5a
 
 _Buatlah plot sederhana untuk visualisasi data_
 
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170884013-35b93532-b349-4579-95bc-40f9535e9236.png">
 
 ### 5b
 
