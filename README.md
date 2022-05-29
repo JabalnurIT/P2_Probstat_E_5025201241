@@ -24,13 +24,13 @@ Berdasarkan data pada tabel diatas, diketahui kadar saturasi oksigen dari
 responden ke-3 ketika belum melakukan aktivitas 𝐴 sebanyak 67, dan setelah
 melakukan aktivitas 𝐴 sebanyak 70.
 
-### a
+### 1a
 
 _Carilah Standar Deviasi dari data selisih pasangan pengamatan tabel
 diatas_
 
 
-### b
+### 1b
 
 _carilah nilai t (p-value)_
 
@@ -39,7 +39,7 @@ _carilah nilai t (p-value)_
 disini hipotesa kita adalah `greater`
 
 
-### c
+### 1c
 
 _tentukanlah apakah terdapat pengaruh yang signifikan secara statistika
 dalam hal kadar saturasi oksigen , sebelum dan sesudah melakukan
@@ -56,7 +56,7 @@ Untuk menguji klaim ini, 100 pemilik mobil yang dipilih secara acak diminta untu
 mencatat jarak yang mereka tempuh. Jika sampel acak menunjukkan rata-rata
 23.500 kilometer dan standar deviasi 3900 kilometer.
 
-### a
+### 2a
 
 _Apakah Anda setuju dengan klaim tersebut?_
 
@@ -64,7 +64,7 @@ _Apakah Anda setuju dengan klaim tersebut?_
 Setuju
 ```
 
-### b
+### 2b
 
 _Jelaskan maksud dari output yang dihasilkan!_
 
@@ -77,7 +77,7 @@ _Jelaskan maksud dari output yang dihasilkan!_
 
 `H1 : μ > 20000`
 
-### c
+### 2c
 
 _Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!_
 
@@ -95,7 +95,7 @@ Dari data diatas berilah keputusan serta kesimpulan yang didapatkan dari hasil
 diatas. Asumsikan nilai variancenya sama, apakah ada perbedaan pada
 rata-ratanya (α= 0.05)? Buatlah :
 
-### a
+### 3a
 
 _H0 dan H1_
 
@@ -104,25 +104,26 @@ H0 : (Tidak ada perbedaan antara nilai rata rata Bandung dan nilai rata rata Bal
 H1 : (Terdapat perbedaan antara nilai rata rata Bandung dan nilai rata rata Bali)
 
 
-### b
+### 3b
 
 
-maka hasil dari pengujian kedua data tersebut adalah :
+- maka hasil dari pengujian kedua data tersebut adalah :
+
 <img width="341" alt="image" src="https://user-images.githubusercontent.com/64743796/170867130-3833fb73-4077-4752-b460-cdd4a5d88b75.png">
 
-### c
+### 3c
 
 _Lakukan Uji Statistik (df =2)_
 
-### d
+### 3d
 
 _Nilai Kritikal_
 
-### e
+### 3e
 
 _Keputusan_
 
-### f
+### 3f
 
 _Kesimpulan_
 
@@ -141,24 +142,24 @@ H0 : Tidak ada perbedaan panjang antara ketiga spesies atau rata-rata panjangnya
 sama
 Maka Kerjakan atau Carilah:
 
-### a
+### 4a
 
 _Buatlah masing masing jenis spesies menjadi 3 subjek "Grup" (grup 1,grup
 2,grup 3). Lalu Gambarkan plot kuantil normal untuk setiap kelompok dan
 lihat apakah ada outlier utama dalam homogenitas varians_
 
-### b
+### 4b
 
 _carilah atau periksalah Homogeneity of variances nya , Berapa nilai p yang
 didapatkan? , Apa hipotesis dan kesimpulan yang dapat diambil ?_
 
 
-### c
+### 4c
 
 _Untuk uji ANOVA (satu arah), buatlah model linier dengan Panjang versus
 Grup dan beri nama model tersebut model 1._
 
-### d
+### 4d
 
 _Dari Hasil Poin C, Berapakah nilai-p ? , Apa yang dapat Anda simpulkan
 dari H0?_
@@ -169,13 +170,13 @@ p-value = 0.8054
 
 maka Probabilitas (p-value) > 0,05 maka h0 diterima
 
-### e
+### 4e
 
 _Verifikasilah jawaban model 1 dengan Post-hoc test Tukey HSD, dari nilai p
 yang didapatkan apakah satu jenis kucing lebih panjang dari yang lain?_
 
 
-### f
+### 4f
 
 _Visualisasikan data dengan ggplot2_
 
@@ -187,22 +188,22 @@ pelat muka (A, B dan C) pada keluaran cahaya tabung osiloskop. Percobaan
 dilakukan sebanyak 27 kali dan didapat data sebagai berikut: Data Hasil
 Eksperimen. Dengan data tersebut
 
-### a
+### 5a
 
 _Buatlah plot sederhana untuk visualisasi data_
 
 
-### b
+### 5b
 
 _Lakukan uji ANOVA dua arah_
 
-### c
+### 5c
 
 _Tampilkan tabel dengan mean dan standar deviasi keluaran cahaya untuk
 setiap perlakuan (kombinasi kaca pelat muka dan suhu operasi)_
 
 
-### d
+### 5d
 
 _Lakukan uji Tukey_
 
@@ -213,7 +214,7 @@ print(TukeyHSD(anova))
 
 <img width="330" alt="image" src="https://user-images.githubusercontent.com/64743796/170869554-f07ecb4c-c875-4683-988c-32535e01e854.png">
 
-### e
+### 5e
 
 _Gunakan compact letter display untuk menunjukkan perbedaan signifikan
 antara uji Anova dan uji Tukey_
