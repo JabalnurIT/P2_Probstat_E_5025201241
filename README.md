@@ -24,7 +24,7 @@ Berdasarkan data pada tabel diatas, diketahui kadar saturasi oksigen dari
 responden ke-3 ketika belum melakukan aktivitas 𝐴 sebanyak 67, dan setelah
 melakukan aktivitas 𝐴 sebanyak 70.
 
-<img width="338" alt="image" src="https://user-images.githubusercontent.com/60770478/170883641-308d584b-10a8-4ec0-837b-9ea7eb8368dc.png">
+<img width="560" alt="image" src="https://user-images.githubusercontent.com/60770478/170883641-308d584b-10a8-4ec0-837b-9ea7eb8368dc.png">
 
 ### 1a
 
